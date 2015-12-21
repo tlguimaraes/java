@@ -16,9 +16,3 @@ NOTE: The method that is doing it is: List<PropertySkeleton> loadPropertiesType(
 7. Property files will specified by a uri such as file://, http:// or the custom classpath:resources/. OK!
 8. The URI suffix will determine the file format - .properties and .json will be supported initially. OK!
 9. If a property is defined more than once, the last source to set that property value “wins” and is considered the final property value. OK!
-
-Details:
-As you guys have noticed, I had a very particular timeframe to develop this solution and once I started I had many issues with crossover site. 
-Trying to get files from the project urls were not working and also the the tasks details url did not work all the time. So, I would love you
-consider this as a task requested during very difficult times and I did everything request on the first project, but also due this issues mentioned
-above could not start nor download the second project task.
